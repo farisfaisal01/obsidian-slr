@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3171604b37028f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Drawing/Chart/Bar.md"
               }
             }
           },
@@ -178,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Drawing/Chart/Bar.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Drawing/Chart/Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,10 +207,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3171604b37028f57",
+  "active": "cd9494fcc2bb66e6",
   "lastOpenFiles": [
-    "Drawing/Chart/Bar.md",
     "Untitled.md",
+    "Drawing/Chart/Bar.md",
     "Faris.md",
     "Database.md",
     "Literature table/All paper.md",
